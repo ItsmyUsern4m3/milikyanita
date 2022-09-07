@@ -1,2 +1,2 @@
-# milikyanita
-mencoba membuat projek github
+# CV Yanita Tianingtias
+yanitatianingtias
